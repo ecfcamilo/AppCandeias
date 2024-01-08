@@ -1,1 +1,1 @@
-# TesteCandeias
+# Aplicativo Android acessando API Candeias
